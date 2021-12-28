@@ -1,0 +1,1001 @@
+Region , Item Type , Order Date , Units Sold , Unit Price , Unit Cost
+Middle East and North Africa , Cosmetics , 18.10.2014 , 8446 , 43720 , 26333
+North America , Vegetables , 07.11.2011 , 3018 , 15406 , 9093
+Middle East and North Africa , Baby Food , 31.10.2016 , 1517 , 25528 , 15942
+Asia , Cereal , 10.04.2010 , 3322 , 20570 , 11711
+Sub-Saharan Africa , Fruits , 16.08.2011 , 9845 , 933 , 692
+Europe , Cereal , 24.11.2014 , 9528 , 20570 , 11711
+Sub-Saharan Africa , Cereal , 04.03.2015 , 2844 , 20570 , 11711
+Europe , Clothes , 17.05.2012 , 7299 , 10928 , 3584
+Central America and the Caribbean , Vegetables , 29.01.2015 , 2428 , 15406 , 9093
+Australia and Oceania , Vegetables , 24.12.2013 , 4800 , 15406 , 9093
+Sub-Saharan Africa , Clothes , 29.12.2015 , 3012 , 10928 , 3584
+Europe , Snacks , 27.02.2010 , 2694 , 15258 , 9744
+Europe , Household , 17.11.2016 , 1508 , 66827 , 50254
+Sub-Saharan Africa , Cosmetics , 20.12.2015 , 4146 , 43720 , 26333
+Asia , Fruits , 08.01.2011 , 7332 , 933 , 692
+Europe , Clothes , 28.06.2010 , 4820 , 10928 , 3584
+Europe , Office Supplies , 25.04.2016 , 2397 , 65121 , 52496
+North America , Beverages , 27.07.2012 , 2880 , 4745 , 3179
+Sub-Saharan Africa , Clothes , 08.09.2014 , 1117 , 10928 , 3584
+Sub-Saharan Africa , Household , 27.08.2012 , 8989 , 66827 , 50254
+Australia and Oceania , Snacks , 03.09.2012 , 407 , 15258 , 9744
+Europe , Clothes , 27.08.2010 , 6313 , 10928 , 3584
+Middle East and North Africa , Personal Care , 20.02.2011 , 9681 , 8173 , 5667
+Asia , Clothes , 12.12.2015 , 515 , 10928 , 3584
+Central America and the Caribbean , Cereal , 28.10.2012 , 852 , 20570 , 11711
+Central America and the Caribbean , Beverages , 30.01.2017 , 9759 , 4745 , 3179
+Sub-Saharan Africa , Beverages , 22.10.2014 , 8334 , 4745 , 3179
+North America , Fruits , 31.01.2012 , 4709 , 933 , 692
+Sub-Saharan Africa , Meat , 20.01.2016 , 9043 , 42189 , 36469
+Sub-Saharan Africa , Personal Care , 01.01.2016 , 8529 , 8173 , 5667
+Middle East and North Africa , Beverages , 01.06.2017 , 2391 , 4745 , 3179
+Central America and the Caribbean , Office Supplies , 30.06.2015 , 6884 , 65121 , 52496
+Sub-Saharan Africa , Fruits , 28.01.2014 , 293 , 933 , 692
+Europe , Baby Food , 08.04.2014 , 7937 , 25528 , 15942
+Central America and the Caribbean , Beverages , 04.09.2010 , 7163 , 4745 , 3179
+Sub-Saharan Africa , Office Supplies , 02.05.2010 , 2352 , 65121 , 52496
+Sub-Saharan Africa , Office Supplies , 03.10.2013 , 9915 , 65121 , 52496
+Central America and the Caribbean , Vegetables , 06.03.2011 , 3294 , 15406 , 9093
+Europe , Baby Food , 07.08.2016 , 7963 , 25528 , 15942
+Europe , Office Supplies , 11.01.2011 , 6426 , 65121 , 52496
+Sub-Saharan Africa , Office Supplies , 21.05.2014 , 3221 , 65121 , 52496
+Asia , Beverages , 03.08.2013 , 9913 , 4745 , 3179
+Middle East and North Africa , Meat , 05.10.2011 , 103 , 42189 , 36469
+Sub-Saharan Africa , Snacks , 15.11.2016 , 4419 , 15258 , 9744
+Sub-Saharan Africa , Office Supplies , 03.04.2015 , 5523 , 65121 , 52496
+Asia , Beverages , 22.03.2013 , 3107 , 4745 , 3179
+Europe , Meat , 02.08.2010 , 8896 , 42189 , 36469
+Europe , Household , 05.01.2012 , 1643 , 66827 , 50254
+Middle East and North Africa , Personal Care , 26.08.2015 , 2135 , 8173 , 5667
+Asia , Meat , 09.12.2016 , 8189 , 42189 , 36469
+Australia and Oceania , Vegetables , 17.05.2012 , 9654 , 15406 , 9093
+Sub-Saharan Africa , Vegetables , 17.11.2010 , 3410 , 15406 , 9093
+Europe , Cosmetics , 13.11.2014 , 8368 , 43720 , 26333
+Europe , Beverages , 16.06.2016 , 470 , 4745 , 3179
+Sub-Saharan Africa , Fruits , 31.05.2016 , 7690 , 933 , 692
+Asia , Snacks , 06.10.2012 , 5033 , 15258 , 9744
+Asia , Office Supplies , 10.03.2012 , 9535 , 65121 , 52496
+Europe , Office Supplies , 26.01.2011 , 5263 , 65121 , 52496
+Asia , Vegetables , 02.06.2014 , 8316 , 15406 , 9093
+Australia and Oceania , Personal Care , 17.12.2016 , 1824 , 8173 , 5667
+Europe , Office Supplies , 27.06.2014 , 949 , 65121 , 52496
+Central America and the Caribbean , Cosmetics , 17.03.2015 , 7881 , 43720 , 26333
+Europe , Beverages , 03.04.2013 , 6846 , 4745 , 3179
+Sub-Saharan Africa , Clothes , 08.03.2015 , 9097 , 10928 , 3584
+Sub-Saharan Africa , Personal Care , 21.06.2013 , 7921 , 8173 , 5667
+Europe , Office Supplies , 06.01.2013 , 3636 , 65121 , 52496
+Sub-Saharan Africa , Cereal , 17.03.2012 , 8590 , 20570 , 11711
+Sub-Saharan Africa , Office Supplies , 18.04.2014 , 2163 , 65121 , 52496
+Sub-Saharan Africa , Baby Food , 03.01.2016 , 5766 , 25528 , 15942
+Europe , Office Supplies , 12.05.2011 , 7841 , 65121 , 52496
+Asia , Fruits , 29.07.2010 , 8862 , 933 , 692
+Europe , Baby Food , 02.08.2013 , 6335 , 25528 , 15942
+Sub-Saharan Africa , Beverages , 23.10.2013 , 9794 , 4745 , 3179
+Europe , Vegetables , 05.02.2017 , 5808 , 15406 , 9093
+Europe , Meat , 20.03.2015 , 2975 , 42189 , 36469
+Middle East and North Africa , Personal Care , 06.05.2012 , 6925 , 8173 , 5667
+Sub-Saharan Africa , Meat , 30.09.2013 , 5319 , 42189 , 36469
+Europe , Office Supplies , 20.05.2014 , 2850 , 65121 , 52496
+Middle East and North Africa , Cereal , 09.04.2010 , 6241 , 20570 , 11711
+North America , Office Supplies , 09.06.2017 , 9247 , 65121 , 52496
+Sub-Saharan Africa , Cereal , 08.02.2015 , 7653 , 20570 , 11711
+Sub-Saharan Africa , Snacks , 25.01.2010 , 4279 , 15258 , 9744
+Asia , Fruits , 07.03.2010 , 3972 , 933 , 692
+Sub-Saharan Africa , Clothes , 03.01.2013 , 8611 , 10928 , 3584
+Sub-Saharan Africa , Snacks , 06.03.2017 , 2109 , 15258 , 9744
+Central America and the Caribbean , Beverages , 09.01.2011 , 5408 , 4745 , 3179
+Middle East and North Africa , Cereal , 27.03.2014 , 1480 , 20570 , 11711
+Europe , Snacks , 28.06.2013 , 332 , 15258 , 9744
+Europe , Beverages , 04.09.2011 , 3999 , 4745 , 3179
+Europe , Clothes , 14.07.2016 , 1549 , 10928 , 3584
+Asia , Baby Food , 23.02.2014 , 4079 , 25528 , 15942
+Central America and the Caribbean , Clothes , 07.08.2010 , 9721 , 10928 , 3584
+Australia and Oceania , Household , 14.01.2013 , 8635 , 66827 , 50254
+Sub-Saharan Africa , Personal Care , 30.09.2010 , 8014 , 8173 , 5667
+Middle East and North Africa , Cereal , 13.10.2016 , 7081 , 20570 , 11711
+Australia and Oceania , Snacks , 16.03.2011 , 2091 , 15258 , 9744
+Sub-Saharan Africa , Fruits , 26.12.2012 , 1331 , 933 , 692
+Sub-Saharan Africa , Clothes , 02.09.2015 , 117 , 10928 , 3584
+Sub-Saharan Africa , Household , 11.11.2013 , 5798 , 66827 , 50254
+Australia and Oceania , Vegetables , 04.08.2014 , 2755 , 15406 , 9093
+North America , Clothes , 21.10.2010 , 7398 , 10928 , 3584
+Middle East and North Africa , Vegetables , 13.06.2015 , 3170 , 15406 , 9093
+Europe , Snacks , 29.03.2012 , 5544 , 15258 , 9744
+Sub-Saharan Africa , Vegetables , 22.06.2012 , 7025 , 15406 , 9093
+Europe , Personal Care , 10.05.2013 , 2149 , 8173 , 5667
+Middle East and North Africa , Personal Care , 10.12.2016 , 2484 , 8173 , 5667
+Middle East and North Africa , Snacks , 20.03.2011 , 1629 , 15258 , 9744
+Asia , Cosmetics , 22.09.2011 , 213 , 43720 , 26333
+Sub-Saharan Africa , Beverages , 11.05.2012 , 897 , 4745 , 3179
+Middle East and North Africa , Clothes , 15.11.2011 , 3374 , 10928 , 3584
+Australia and Oceania , Beverages , 27.01.2010 , 9367 , 4745 , 3179
+Asia , Baby Food , 17.08.2011 , 7632 , 25528 , 15942
+Middle East and North Africa , Beverages , 06.09.2014 , 8954 , 4745 , 3179
+Sub-Saharan Africa , Cereal , 03.09.2014 , 1150 , 20570 , 11711
+Sub-Saharan Africa , Office Supplies , 05.09.2015 , 4071 , 65121 , 52496
+Asia , Baby Food , 20.06.2011 , 4594 , 25528 , 15942
+Australia and Oceania , Snacks , 12.01.2012 , 1632 , 15258 , 9744
+Asia , Household , 23.01.2017 , 1127 , 66827 , 50254
+Europe , Vegetables , 04.03.2012 , 1052 , 15406 , 9093
+Sub-Saharan Africa , Meat , 18.07.2010 , 6413 , 42189 , 36469
+Europe , Snacks , 12.04.2011 , 4245 , 15258 , 9744
+Sub-Saharan Africa , Snacks , 03.10.2010 , 8615 , 15258 , 9744
+Sub-Saharan Africa , Baby Food , 29.12.2013 , 5624 , 25528 , 15942
+Europe , Clothes , 19.09.2015 , 8399 , 10928 , 3584
+Europe , Fruits , 17.09.2011 , 2104 , 933 , 692
+Asia , Snacks , 11.03.2010 , 8929 , 15258 , 9744
+Sub-Saharan Africa , Household , 10.11.2012 , 3098 , 66827 , 50254
+Central America and the Caribbean , Clothes , 16.02.2011 , 5867 , 10928 , 3584
+Central America and the Caribbean , Cosmetics , 13.08.2012 , 522 , 43720 , 26333
+Europe , Snacks , 28.08.2014 , 7379 , 15258 , 9744
+Europe , Office Supplies , 19.08.2015 , 8788 , 65121 , 52496
+Europe , Beverages , 20.03.2011 , 4129 , 4745 , 3179
+Asia , Beverages , 16.04.2013 , 4811 , 4745 , 3179
+Europe , Baby Food , 13.11.2015 , 9279 , 25528 , 15942
+Europe , Household , 10.01.2014 , 8006 , 66827 , 50254
+Europe , Office Supplies , 09.04.2015 , 8496 , 65121 , 52496
+Sub-Saharan Africa , Household , 07.01.2013 , 285 , 66827 , 50254
+Asia , Personal Care , 12.02.2013 , 9942 , 8173 , 5667
+Sub-Saharan Africa , Meat , 28.11.2014 , 6064 , 42189 , 36469
+Asia , Meat , 03.01.2015 , 4281 , 42189 , 36469
+Europe , Personal Care , 03.02.2011 , 2256 , 8173 , 5667
+Middle East and North Africa , Snacks , 09.04.2013 , 4679 , 15258 , 9744
+Europe , Cosmetics , 26.07.2017 , 8275 , 43720 , 26333
+Sub-Saharan Africa , Fruits , 15.04.2017 , 6798 , 933 , 692
+Europe , Baby Food , 16.05.2014 , 6035 , 25528 , 15942
+Asia , Baby Food , 12.08.2015 , 8803 , 25528 , 15942
+Europe , Snacks , 20.09.2013 , 9951 , 15258 , 9744
+Sub-Saharan Africa , Cereal , 31.10.2013 , 1358 , 20570 , 11711
+Sub-Saharan Africa , Cereal , 30.07.2014 , 6936 , 20570 , 11711
+Sub-Saharan Africa , Fruits , 12.11.2011 , 7627 , 933 , 692
+Europe , Snacks , 25.03.2010 , 6405 , 15258 , 9744
+Central America and the Caribbean , Cereal , 04.07.2011 , 3274 , 20570 , 11711
+Europe , Baby Food , 01.01.2011 , 271 , 25528 , 15942
+Europe , Clothes , 16.06.2016 , 6463 , 10928 , 3584
+Europe , Fruits , 17.12.2013 , 2949 , 933 , 692
+Sub-Saharan Africa , Meat , 01.03.2017 , 7859 , 42189 , 36469
+Europe , Baby Food , 02.07.2010 , 1353 , 25528 , 15942
+Sub-Saharan Africa , Snacks , 16.07.2013 , 624 , 15258 , 9744
+Asia , Office Supplies , 16.08.2016 , 4897 , 65121 , 52496
+Europe , Meat , 16.12.2014 , 424 , 42189 , 36469
+Middle East and North Africa , Office Supplies , 14.05.2012 , 5494 , 65121 , 52496
+Europe , Household , 18.07.2017 , 5423 , 66827 , 50254
+Australia and Oceania , Personal Care , 09.07.2017 , 7559 , 8173 , 5667
+Middle East and North Africa , Office Supplies , 30.09.2011 , 6283 , 65121 , 52496
+Europe , Vegetables , 24.11.2015 , 8006 , 15406 , 9093
+Sub-Saharan Africa , Office Supplies , 14.08.2012 , 6170 , 65121 , 52496
+Middle East and North Africa , Clothes , 06.12.2015 , 6249 , 10928 , 3584
+Europe , Vegetables , 25.05.2014 , 748 , 15406 , 9093
+Asia , Beverages , 18.10.2012 , 4203 , 4745 , 3179
+Europe , Office Supplies , 13.03.2013 , 8180 , 65121 , 52496
+Europe , Office Supplies , 23.02.2011 , 6280 , 65121 , 52496
+Europe , Household , 15.08.2014 , 9131 , 66827 , 50254
+Sub-Saharan Africa , Personal Care , 06.07.2017 , 9396 , 8173 , 5667
+Europe , Clothes , 31.12.2010 , 6765 , 10928 , 3584
+Sub-Saharan Africa , Personal Care , 13.01.2010 , 2964 , 8173 , 5667
+Sub-Saharan Africa , Office Supplies , 17.09.2011 , 6746 , 65121 , 52496
+Middle East and North Africa , Office Supplies , 08.03.2014 , 8898 , 65121 , 52496
+North America , Clothes , 18.11.2012 , 7237 , 10928 , 3584
+Sub-Saharan Africa , Personal Care , 18.11.2011 , 1612 , 8173 , 5667
+Central America and the Caribbean , Beverages , 12.07.2012 , 8904 , 4745 , 3179
+Europe , Personal Care , 30.03.2017 , 8022 , 8173 , 5667
+Australia and Oceania , Personal Care , 26.07.2010 , 4909 , 8173 , 5667
+Asia , Personal Care , 24.12.2015 , 7539 , 8173 , 5667
+Sub-Saharan Africa , Office Supplies , 15.05.2016 , 917 , 65121 , 52496
+Australia and Oceania , Meat , 03.11.2010 , 2079 , 42189 , 36469
+Middle East and North Africa , Meat , 01.12.2010 , 5093 , 42189 , 36469
+Sub-Saharan Africa , Snacks , 16.01.2014 , 6056 , 15258 , 9744
+Middle East and North Africa , Baby Food , 11.12.2014 , 8099 , 25528 , 15942
+Asia , Cosmetics , 24.12.2016 , 6384 , 43720 , 26333
+Central America and the Caribbean , Household , 21.03.2013 , 3101 , 66827 , 50254
+Europe , Personal Care , 08.12.2012 , 2476 , 8173 , 5667
+North America , Baby Food , 13.02.2015 , 5763 , 25528 , 15942
+Europe , Beverages , 28.03.2012 , 6247 , 4745 , 3179
+North America , Vegetables , 07.10.2016 , 4247 , 15406 , 9093
+Middle East and North Africa , Beverages , 15.12.2011 , 2111 , 4745 , 3179
+Middle East and North Africa , Household , 08.03.2016 , 9219 , 66827 , 50254
+Europe , Baby Food , 18.01.2011 , 6982 , 25528 , 15942
+Europe , Clothes , 11.04.2013 , 3843 , 10928 , 3584
+Sub-Saharan Africa , Fruits , 18.05.2010 , 274 , 933 , 692
+Central America and the Caribbean , Cereal , 05.06.2017 , 3782 , 20570 , 11711
+Asia , Personal Care , 11.09.2012 , 3901 , 8173 , 5667
+Sub-Saharan Africa , Baby Food , 08.03.2017 , 7200 , 25528 , 15942
+Europe , Household , 28.01.2015 , 2278 , 66827 , 50254
+Asia , Personal Care , 26.07.2010 , 4763 , 8173 , 5667
+Asia , Snacks , 24.06.2016 , 2317 , 15258 , 9744
+Australia and Oceania , Meat , 18.08.2012 , 9633 , 42189 , 36469
+Sub-Saharan Africa , Vegetables , 11.03.2010 , 3434 , 15406 , 9093
+Australia and Oceania , Vegetables , 14.01.2010 , 7475 , 15406 , 9093
+Sub-Saharan Africa , Cereal , 10.02.2014 , 7542 , 20570 , 11711
+Europe , Vegetables , 21.01.2014 , 6452 , 15406 , 9093
+Australia and Oceania , Household , 28.02.2010 , 9055 , 66827 , 50254
+Sub-Saharan Africa , Personal Care , 18.02.2015 , 7230 , 8173 , 5667
+Sub-Saharan Africa , Office Supplies , 14.06.2012 , 4888 , 65121 , 52496
+Europe , Clothes , 05.03.2013 , 2972 , 10928 , 3584
+Europe , Household , 10.04.2014 , 4455 , 66827 , 50254
+Australia and Oceania , Meat , 26.07.2017 , 9341 , 42189 , 36469
+Europe , Fruits , 19.10.2010 , 9669 , 933 , 692
+Europe , Baby Food , 08.11.2016 , 4503 , 25528 , 15942
+Sub-Saharan Africa , Clothes , 31.03.2014 , 4944 , 10928 , 3584
+Sub-Saharan Africa , Vegetables , 18.08.2016 , 9121 , 15406 , 9093
+Sub-Saharan Africa , Personal Care , 03.01.2016 , 7196 , 8173 , 5667
+Sub-Saharan Africa , Fruits , 21.10.2016 , 6360 , 933 , 692
+Middle East and North Africa , Baby Food , 10.12.2016 , 5837 , 25528 , 15942
+Australia and Oceania , Vegetables , 12.08.2011 , 1882 , 15406 , 9093
+Europe , Clothes , 23.03.2012 , 2782 , 10928 , 3584
+Australia and Oceania , Snacks , 27.04.2012 , 3853 , 15258 , 9744
+Middle East and North Africa , Household , 29.01.2014 , 2445 , 66827 , 50254
+Europe , Household , 13.12.2016 , 2936 , 66827 , 50254
+Asia , Baby Food , 21.11.2013 , 1739 , 25528 , 15942
+Europe , Clothes , 07.04.2010 , 2296 , 10928 , 3584
+Middle East and North Africa , Baby Food , 08.07.2012 , 80 , 25528 , 15942
+Asia , Personal Care , 15.10.2016 , 7597 , 8173 , 5667
+Sub-Saharan Africa , Meat , 18.09.2012 , 9381 , 42189 , 36469
+Central America and the Caribbean , Office Supplies , 02.07.2017 , 7002 , 65121 , 52496
+Europe , Cosmetics , 21.07.2011 , 4056 , 43720 , 26333
+Sub-Saharan Africa , Vegetables , 01.06.2010 , 1175 , 15406 , 9093
+Asia , Office Supplies , 26.07.2015 , 1020 , 65121 , 52496
+Sub-Saharan Africa , Baby Food , 06.08.2010 , 3282 , 25528 , 15942
+Central America and the Caribbean , Office Supplies , 20.06.2010 , 9685 , 65121 , 52496
+Europe , Cereal , 08.04.2012 , 8985 , 20570 , 11711
+Europe , Cereal , 27.02.2014 , 1967 , 20570 , 11711
+Europe , Household , 25.07.2011 , 6449 , 66827 , 50254
+Sub-Saharan Africa , Baby Food , 18.02.2016 , 2279 , 25528 , 15942
+Middle East and North Africa , Baby Food , 24.01.2014 , 6338 , 25528 , 15942
+Australia and Oceania , Personal Care , 10.05.2015 , 7536 , 8173 , 5667
+Sub-Saharan Africa , Clothes , 13.02.2012 , 1816 , 10928 , 3584
+Sub-Saharan Africa , Cereal , 07.09.2012 , 7151 , 20570 , 11711
+Central America and the Caribbean , Office Supplies , 04.02.2015 , 8547 , 65121 , 52496
+Europe , Fruits , 16.11.2010 , 3039 , 933 , 692
+Sub-Saharan Africa , Vegetables , 20.07.2011 , 4695 , 15406 , 9093
+Central America and the Caribbean , Beverages , 26.07.2014 , 9614 , 4745 , 3179
+Sub-Saharan Africa , Meat , 24.08.2014 , 924 , 42189 , 36469
+Asia , Vegetables , 25.02.2015 , 3789 , 15406 , 9093
+Asia , Household , 21.09.2016 , 399 , 66827 , 50254
+Sub-Saharan Africa , Household , 28.06.2013 , 4979 , 66827 , 50254
+Central America and the Caribbean , Meat , 05.01.2012 , 8783 , 42189 , 36469
+Europe , Beverages , 01.05.2012 , 5098 , 4745 , 3179
+Sub-Saharan Africa , Cereal , 13.10.2011 , 4240 , 20570 , 11711
+Australia and Oceania , Household , 27.04.2016 , 8559 , 66827 , 50254
+Asia , Meat , 19.01.2014 , 7435 , 42189 , 36469
+Central America and the Caribbean , Fruits , 06.11.2016 , 2278 , 933 , 692
+Sub-Saharan Africa , Household , 28.02.2011 , 1531 , 66827 , 50254
+Middle East and North Africa , Baby Food , 11.10.2014 , 5668 , 25528 , 15942
+Sub-Saharan Africa , Beverages , 25.06.2012 , 2193 , 4745 , 3179
+Europe , Household , 06.11.2012 , 642 , 66827 , 50254
+Central America and the Caribbean , Household , 24.02.2014 , 7584 , 66827 , 50254
+Middle East and North Africa , Baby Food , 19.09.2015 , 1616 , 25528 , 15942
+Australia and Oceania , Snacks , 04.03.2014 , 8369 , 15258 , 9744
+Sub-Saharan Africa , Fruits , 08.10.2014 , 5503 , 933 , 692
+Sub-Saharan Africa , Vegetables , 19.06.2012 , 7712 , 15406 , 9093
+Asia , Clothes , 11.11.2010 , 1718 , 10928 , 3584
+Middle East and North Africa , Personal Care , 01.11.2010 , 1276 , 8173 , 5667
+Europe , Vegetables , 28.04.2014 , 2173 , 15406 , 9093
+Sub-Saharan Africa , Snacks , 22.12.2012 , 7227 , 15258 , 9744
+Europe , Household , 25.08.2014 , 1285 , 66827 , 50254
+Australia and Oceania , Fruits , 26.11.2016 , 6227 , 933 , 692
+Sub-Saharan Africa , Cereal , 20.10.2010 , 5965 , 20570 , 11711
+Sub-Saharan Africa , Meat , 18.12.2014 , 1441 , 42189 , 36469
+Sub-Saharan Africa , Clothes , 20.03.2011 , 5629 , 10928 , 3584
+Europe , Cosmetics , 12.07.2016 , 8534 , 43720 , 26333
+Europe , Household , 26.01.2011 , 2191 , 66827 , 50254
+Europe , Office Supplies , 24.02.2010 , 5668 , 65121 , 52496
+Middle East and North Africa , Vegetables , 02.01.2015 , 64 , 15406 , 9093
+Asia , Office Supplies , 26.07.2016 , 3509 , 65121 , 52496
+Middle East and North Africa , Vegetables , 01.06.2014 , 6163 , 15406 , 9093
+Sub-Saharan Africa , Beverages , 21.12.2012 , 5220 , 4745 , 3179
+Europe , Household , 27.02.2010 , 9902 , 66827 , 50254
+Europe , Vegetables , 24.04.2016 , 6465 , 15406 , 9093
+Sub-Saharan Africa , Vegetables , 22.07.2012 , 3195 , 15406 , 9093
+Central America and the Caribbean , Cereal , 22.02.2015 , 5409 , 20570 , 11711
+Europe , Beverages , 10.02.2011 , 455 , 4745 , 3179
+Sub-Saharan Africa , Cosmetics , 21.01.2015 , 2715 , 43720 , 26333
+Sub-Saharan Africa , Beverages , 10.05.2012 , 8598 , 4745 , 3179
+Middle East and North Africa , Vegetables , 16.12.2015 , 1547 , 15406 , 9093
+Middle East and North Africa , Vegetables , 25.02.2017 , 7036 , 15406 , 9093
+Sub-Saharan Africa , Baby Food , 31.01.2012 , 7570 , 25528 , 15942
+Central America and the Caribbean , Cosmetics , 07.02.2013 , 7685 , 43720 , 26333
+Sub-Saharan Africa , Household , 14.09.2014 , 8948 , 66827 , 50254
+Sub-Saharan Africa , Cereal , 05.06.2012 , 4957 , 20570 , 11711
+Europe , Cosmetics , 05.04.2014 , 6344 , 43720 , 26333
+Europe , Office Supplies , 02.02.2014 , 5768 , 65121 , 52496
+Asia , Office Supplies , 01.09.2010 , 2923 , 65121 , 52496
+Europe , Office Supplies , 17.05.2011 , 9532 , 65121 , 52496
+Europe , Beverages , 21.04.2013 , 4349 , 4745 , 3179
+Europe , Beverages , 10.08.2014 , 8161 , 4745 , 3179
+Europe , Snacks , 19.09.2010 , 8786 , 15258 , 9744
+Australia and Oceania , Personal Care , 13.04.2013 , 6071 , 8173 , 5667
+Sub-Saharan Africa , Fruits , 28.01.2016 , 6897 , 933 , 692
+Central America and the Caribbean , Clothes , 09.12.2013 , 175 , 10928 , 3584
+Sub-Saharan Africa , Cereal , 21.02.2014 , 1848 , 20570 , 11711
+Europe , Clothes , 09.06.2017 , 9888 , 10928 , 3584
+North America , Household , 17.04.2014 , 9302 , 66827 , 50254
+Australia and Oceania , Fruits , 20.05.2011 , 7124 , 933 , 692
+Middle East and North Africa , Vegetables , 28.08.2012 , 7422 , 15406 , 9093
+Central America and the Caribbean , Cosmetics , 25.07.2015 , 6296 , 43720 , 26333
+Sub-Saharan Africa , Cosmetics , 27.10.2014 , 6874 , 43720 , 26333
+Asia , Household , 18.10.2013 , 4319 , 66827 , 50254
+Sub-Saharan Africa , Beverages , 15.02.2013 , 822 , 4745 , 3179
+North America , Baby Food , 08.07.2014 , 607 , 25528 , 15942
+Sub-Saharan Africa , Cereal , 12.12.2016 , 4928 , 20570 , 11711
+Middle East and North Africa , Cereal , 24.11.2012 , 7073 , 20570 , 11711
+Sub-Saharan Africa , Baby Food , 03.11.2014 , 7358 , 25528 , 15942
+Sub-Saharan Africa , Meat , 03.08.2013 , 8132 , 42189 , 36469
+Australia and Oceania , Personal Care , 23.05.2012 , 8775 , 8173 , 5667
+Australia and Oceania , Clothes , 22.07.2015 , 699 , 10928 , 3584
+Australia and Oceania , Clothes , 01.02.2017 , 2344 , 10928 , 3584
+Sub-Saharan Africa , Beverages , 28.01.2012 , 4186 , 4745 , 3179
+Australia and Oceania , Beverages , 03.08.2015 , 3729 , 4745 , 3179
+Central America and the Caribbean , Baby Food , 23.06.2013 , 508 , 25528 , 15942
+Europe , Meat , 03.08.2011 , 1093 , 42189 , 36469
+Sub-Saharan Africa , Meat , 30.10.2016 , 4080 , 42189 , 36469
+Asia , Vegetables , 05.09.2010 , 5100 , 15406 , 9093
+North America , Beverages , 13.07.2013 , 1815 , 4745 , 3179
+Sub-Saharan Africa , Vegetables , 09.10.2012 , 8916 , 15406 , 9093
+Central America and the Caribbean , Vegetables , 03.01.2012 , 3127 , 15406 , 9093
+Central America and the Caribbean , Baby Food , 08.02.2012 , 8203 , 25528 , 15942
+Middle East and North Africa , Clothes , 03.01.2015 , 9930 , 10928 , 3584
+Middle East and North Africa , Personal Care , 13.05.2012 , 1126 , 8173 , 5667
+Asia , Snacks , 13.01.2012 , 6639 , 15258 , 9744
+Asia , Cereal , 30.07.2011 , 8349 , 20570 , 11711
+Asia , Snacks , 13.03.2017 , 167 , 15258 , 9744
+Europe , Office Supplies , 23.03.2017 , 3036 , 65121 , 52496
+Asia , Baby Food , 16.03.2016 , 9929 , 25528 , 15942
+Sub-Saharan Africa , Beverages , 18.12.2015 , 851 , 4745 , 3179
+Europe , Fruits , 25.10.2011 , 7838 , 933 , 692
+Europe , Baby Food , 30.06.2011 , 9958 , 25528 , 15942
+Sub-Saharan Africa , Cosmetics , 27.03.2016 , 8309 , 43720 , 26333
+Europe , Household , 23.12.2016 , 1021 , 66827 , 50254
+Sub-Saharan Africa , Fruits , 18.04.2013 , 8256 , 933 , 692
+Australia and Oceania , Household , 08.03.2017 , 7205 , 66827 , 50254
+Europe , Personal Care , 03.06.2011 , 7092 , 8173 , 5667
+Asia , Personal Care , 30.11.2013 , 4173 , 8173 , 5667
+Europe , Cereal , 11.05.2013 , 6733 , 20570 , 11711
+Europe , Personal Care , 13.11.2010 , 89 , 8173 , 5667
+Sub-Saharan Africa , Office Supplies , 09.03.2016 , 1591 , 65121 , 52496
+Europe , Snacks , 19.08.2013 , 5618 , 15258 , 9744
+Sub-Saharan Africa , Beverages , 19.04.2011 , 8581 , 4745 , 3179
+Australia and Oceania , Baby Food , 20.07.2014 , 3923 , 25528 , 15942
+Middle East and North Africa , Beverages , 08.09.2014 , 7117 , 4745 , 3179
+Europe , Household , 04.06.2015 , 668 , 66827 , 50254
+Europe , Cereal , 19.12.2013 , 9113 , 20570 , 11711
+Middle East and North Africa , Cereal , 18.05.2012 , 4019 , 20570 , 11711
+Australia and Oceania , Cosmetics , 12.10.2013 , 8984 , 43720 , 26333
+Australia and Oceania , Fruits , 02.01.2011 , 4638 , 933 , 692
+Central America and the Caribbean , Household , 02.02.2013 , 3642 , 66827 , 50254
+North America , Baby Food , 19.03.2011 , 5689 , 25528 , 15942
+Europe , Personal Care , 03.10.2012 , 2503 , 8173 , 5667
+Middle East and North Africa , Beverages , 23.10.2014 , 2838 , 4745 , 3179
+Sub-Saharan Africa , Baby Food , 12.07.2015 , 7480 , 25528 , 15942
+Europe , Cereal , 06.05.2010 , 4247 , 20570 , 11711
+Asia , Vegetables , 27.11.2010 , 2988 , 15406 , 9093
+Central America and the Caribbean , Clothes , 26.12.2010 , 582 , 10928 , 3584
+Middle East and North Africa , Cosmetics , 30.12.2012 , 5940 , 43720 , 26333
+Australia and Oceania , Personal Care , 21.08.2016 , 5005 , 8173 , 5667
+Europe , Personal Care , 03.02.2015 , 5751 , 8173 , 5667
+Central America and the Caribbean , Cereal , 19.12.2013 , 3181 , 20570 , 11711
+Central America and the Caribbean , Meat , 12.05.2012 , 4334 , 42189 , 36469
+Sub-Saharan Africa , Meat , 28.03.2014 , 3275 , 42189 , 36469
+Central America and the Caribbean , Personal Care , 11.01.2017 , 6103 , 8173 , 5667
+Europe , Baby Food , 21.06.2015 , 5949 , 25528 , 15942
+Asia , Cosmetics , 29.11.2012 , 7974 , 43720 , 26333
+Europe , Vegetables , 01.01.2010 , 4369 , 15406 , 9093
+Middle East and North Africa , Meat , 06.01.2016 , 9359 , 42189 , 36469
+Sub-Saharan Africa , Beverages , 14.10.2014 , 4199 , 4745 , 3179
+Middle East and North Africa , Office Supplies , 09.12.2013 , 2173 , 65121 , 52496
+Asia , Cereal , 19.10.2010 , 3601 , 20570 , 11711
+Sub-Saharan Africa , Personal Care , 02.05.2011 , 830 , 8173 , 5667
+Australia and Oceania , Snacks , 17.03.2011 , 3241 , 15258 , 9744
+Europe , Office Supplies , 24.09.2014 , 2244 , 65121 , 52496
+Middle East and North Africa , Cereal , 01.12.2015 , 6283 , 20570 , 11711
+Europe , Cereal , 02.06.2017 , 5829 , 20570 , 11711
+Middle East and North Africa , Cosmetics , 04.08.2011 , 8390 , 43720 , 26333
+Australia and Oceania , Meat , 29.07.2014 , 3499 , 42189 , 36469
+Europe , Meat , 26.01.2017 , 7726 , 42189 , 36469
+Sub-Saharan Africa , Fruits , 05.11.2010 , 9669 , 933 , 692
+Asia , Baby Food , 26.03.2015 , 4957 , 25528 , 15942
+Europe , Clothes , 07.10.2012 , 1251 , 10928 , 3584
+Central America and the Caribbean , Meat , 22.07.2013 , 3245 , 42189 , 36469
+Asia , Cosmetics , 16.08.2013 , 7661 , 43720 , 26333
+Asia , Personal Care , 05.11.2013 , 8254 , 8173 , 5667
+Australia and Oceania , Office Supplies , 01.03.2016 , 812 , 65121 , 52496
+Sub-Saharan Africa , Meat , 25.03.2012 , 8150 , 42189 , 36469
+Sub-Saharan Africa , Cosmetics , 20.06.2017 , 5118 , 43720 , 26333
+Europe , Cosmetics , 18.04.2014 , 3596 , 43720 , 26333
+Middle East and North Africa , Clothes , 28.06.2016 , 7494 , 10928 , 3584
+Sub-Saharan Africa , Meat , 20.05.2012 , 7755 , 42189 , 36469
+Europe , Office Supplies , 04.02.2014 , 7353 , 65121 , 52496
+Europe , Beverages , 15.11.2015 , 6293 , 4745 , 3179
+Central America and the Caribbean , Baby Food , 11.01.2013 , 6610 , 25528 , 15942
+Central America and the Caribbean , Snacks , 24.04.2013 , 7373 , 15258 , 9744
+Middle East and North Africa , Cosmetics , 15.05.2010 , 9679 , 43720 , 26333
+Sub-Saharan Africa , Cosmetics , 17.04.2010 , 1659 , 43720 , 26333
+Europe , Vegetables , 25.08.2012 , 3473 , 15406 , 9093
+Middle East and North Africa , Household , 19.04.2014 , 2315 , 66827 , 50254
+Sub-Saharan Africa , Household , 26.02.2013 , 7408 , 66827 , 50254
+Sub-Saharan Africa , Baby Food , 28.12.2011 , 5006 , 25528 , 15942
+Sub-Saharan Africa , Baby Food , 21.08.2014 , 3395 , 25528 , 15942
+Asia , Vegetables , 21.08.2014 , 7894 , 15406 , 9093
+Europe , Cereal , 02.03.2014 , 5851 , 20570 , 11711
+Sub-Saharan Africa , Household , 06.09.2012 , 1646 , 66827 , 50254
+Sub-Saharan Africa , Fruits , 16.09.2010 , 1689 , 933 , 692
+Sub-Saharan Africa , Beverages , 13.08.2013 , 9424 , 4745 , 3179
+Europe , Personal Care , 11.09.2012 , 323 , 8173 , 5667
+Europe , Office Supplies , 31.08.2011 , 6892 , 65121 , 52496
+Europe , Cosmetics , 21.04.2015 , 3667 , 43720 , 26333
+Central America and the Caribbean , Household , 11.07.2010 , 2215 , 66827 , 50254
+Middle East and North Africa , Meat , 09.08.2015 , 6135 , 42189 , 36469
+Central America and the Caribbean , Meat , 17.10.2015 , 6057 , 42189 , 36469
+Australia and Oceania , Cereal , 24.07.2012 , 4641 , 20570 , 11711
+Asia , Snacks , 25.03.2012 , 1581 , 15258 , 9744
+Europe , Baby Food , 11.08.2014 , 8600 , 25528 , 15942
+Asia , Cereal , 15.10.2016 , 4452 , 20570 , 11711
+Asia , Cosmetics , 03.12.2016 , 9924 , 43720 , 26333
+Europe , Personal Care , 12.06.2010 , 2834 , 8173 , 5667
+Europe , Vegetables , 29.07.2016 , 3030 , 15406 , 9093
+Europe , Office Supplies , 09.12.2013 , 7391 , 65121 , 52496
+Asia , Clothes , 12.07.2012 , 4829 , 10928 , 3584
+Asia , Fruits , 14.01.2012 , 1287 , 933 , 692
+Middle East and North Africa , Personal Care , 20.03.2013 , 4738 , 8173 , 5667
+Central America and the Caribbean , Household , 10.02.2014 , 186 , 66827 , 50254
+Europe , Snacks , 26.10.2013 , 4668 , 15258 , 9744
+North America , Beverages , 16.04.2016 , 2252 , 4745 , 3179
+Sub-Saharan Africa , Cosmetics , 27.05.2011 , 9036 , 43720 , 26333
+Europe , Cereal , 04.08.2016 , 8149 , 20570 , 11711
+Middle East and North Africa , Snacks , 03.07.2012 , 4754 , 15258 , 9744
+Middle East and North Africa , Beverages , 04.12.2014 , 1042 , 4745 , 3179
+Asia , Cosmetics , 31.05.2010 , 1237 , 43720 , 26333
+Asia , Beverages , 05.02.2013 , 6594 , 4745 , 3179
+Europe , Beverages , 15.06.2015 , 399 , 4745 , 3179
+Europe , Vegetables , 21.10.2014 , 2969 , 15406 , 9093
+Sub-Saharan Africa , Snacks , 13.02.2017 , 6653 , 15258 , 9744
+Australia and Oceania , Vegetables , 29.06.2010 , 832 , 15406 , 9093
+Australia and Oceania , Vegetables , 19.05.2014 , 6915 , 15406 , 9093
+Central America and the Caribbean , Meat , 21.03.2015 , 3346 , 42189 , 36469
+Asia , Office Supplies , 31.08.2015 , 598 , 65121 , 52496
+Central America and the Caribbean , Personal Care , 23.08.2015 , 6176 , 8173 , 5667
+Europe , Cosmetics , 24.02.2016 , 9615 , 43720 , 26333
+Middle East and North Africa , Household , 17.06.2015 , 7485 , 66827 , 50254
+Central America and the Caribbean , Cereal , 27.11.2012 , 8382 , 20570 , 11711
+Europe , Snacks , 07.09.2012 , 7938 , 15258 , 9744
+Middle East and North Africa , Clothes , 23.06.2012 , 3812 , 10928 , 3584
+Sub-Saharan Africa , Beverages , 23.10.2014 , 698 , 4745 , 3179
+Central America and the Caribbean , Cosmetics , 18.09.2015 , 5320 , 43720 , 26333
+Europe , Office Supplies , 24.01.2016 , 1431 , 65121 , 52496
+Sub-Saharan Africa , Fruits , 23.03.2010 , 4818 , 933 , 692
+Europe , Personal Care , 26.07.2012 , 8299 , 8173 , 5667
+North America , Clothes , 20.10.2015 , 6722 , 10928 , 3584
+Central America and the Caribbean , Office Supplies , 27.06.2017 , 1968 , 65121 , 52496
+Europe , Beverages , 04.04.2016 , 7946 , 4745 , 3179
+Europe , Clothes , 05.08.2015 , 5600 , 10928 , 3584
+Sub-Saharan Africa , Cereal , 16.06.2012 , 7903 , 20570 , 11711
+Asia , Cosmetics , 03.04.2016 , 4860 , 43720 , 26333
+Sub-Saharan Africa , Baby Food , 21.09.2014 , 8508 , 25528 , 15942
+Sub-Saharan Africa , Snacks , 08.08.2015 , 7913 , 15258 , 9744
+Sub-Saharan Africa , Office Supplies , 19.07.2012 , 4174 , 65121 , 52496
+Middle East and North Africa , Snacks , 26.08.2011 , 5421 , 15258 , 9744
+Australia and Oceania , Household , 23.06.2012 , 1816 , 66827 , 50254
+Europe , Beverages , 20.11.2011 , 550 , 4745 , 3179
+Asia , Beverages , 13.05.2015 , 848 , 4745 , 3179
+North America , Personal Care , 16.07.2010 , 8963 , 8173 , 5667
+Europe , Cosmetics , 21.05.2016 , 3183 , 43720 , 26333
+Australia and Oceania , Cosmetics , 22.04.2011 , 8825 , 43720 , 26333
+Sub-Saharan Africa , Beverages , 14.08.2012 , 3237 , 4745 , 3179
+Europe , Clothes , 17.03.2012 , 799 , 10928 , 3584
+Sub-Saharan Africa , Household , 06.08.2010 , 7922 , 66827 , 50254
+Sub-Saharan Africa , Baby Food , 25.02.2013 , 8049 , 25528 , 15942
+North America , Meat , 06.03.2011 , 6654 , 42189 , 36469
+Middle East and North Africa , Office Supplies , 14.12.2015 , 6240 , 65121 , 52496
+Europe , Office Supplies , 10.02.2017 , 1345 , 65121 , 52496
+Asia , Office Supplies , 20.09.2016 , 3536 , 65121 , 52496
+Central America and the Caribbean , Baby Food , 30.04.2010 , 6411 , 25528 , 15942
+Europe , Beverages , 25.06.2013 , 600 , 4745 , 3179
+Europe , Household , 04.07.2012 , 8765 , 66827 , 50254
+Central America and the Caribbean , Snacks , 21.09.2013 , 597 , 15258 , 9744
+Europe , Personal Care , 08.12.2016 , 7821 , 8173 , 5667
+Middle East and North Africa , Meat , 02.09.2011 , 9191 , 42189 , 36469
+Europe , Personal Care , 21.03.2011 , 5494 , 8173 , 5667
+Europe , Fruits , 08.01.2011 , 4546 , 933 , 692
+Central America and the Caribbean , Office Supplies , 22.02.2015 , 6197 , 65121 , 52496
+Middle East and North Africa , Fruits , 15.05.2017 , 7325 , 933 , 692
+Sub-Saharan Africa , Meat , 14.07.2012 , 6844 , 42189 , 36469
+Middle East and North Africa , Cereal , 25.06.2015 , 694 , 20570 , 11711
+Middle East and North Africa , Snacks , 26.10.2011 , 6850 , 15258 , 9744
+Sub-Saharan Africa , Office Supplies , 24.09.2014 , 316 , 65121 , 52496
+Asia , Office Supplies , 30.09.2015 , 8128 , 65121 , 52496
+Europe , Meat , 31.03.2011 , 4355 , 42189 , 36469
+Sub-Saharan Africa , Beverages , 25.10.2013 , 5093 , 4745 , 3179
+Europe , Vegetables , 12.08.2010 , 3475 , 15406 , 9093
+Europe , Clothes , 26.07.2012 , 4659 , 10928 , 3584
+Australia and Oceania , Household , 30.09.2012 , 840 , 66827 , 50254
+Sub-Saharan Africa , Baby Food , 09.11.2012 , 6240 , 25528 , 15942
+Europe , Cereal , 19.11.2011 , 2114 , 20570 , 11711
+Europe , Household , 09.06.2017 , 1749 , 66827 , 50254
+Sub-Saharan Africa , Snacks , 17.09.2011 , 5462 , 15258 , 9744
+Sub-Saharan Africa , Vegetables , 23.10.2015 , 5602 , 15406 , 9093
+Asia , Beverages , 03.04.2010 , 1547 , 4745 , 3179
+Europe , Vegetables , 03.07.2014 , 4711 , 15406 , 9093
+Asia , Cosmetics , 30.12.2014 , 3534 , 43720 , 26333
+Sub-Saharan Africa , Beverages , 19.05.2014 , 8491 , 4745 , 3179
+Australia and Oceania , Cosmetics , 04.08.2012 , 7086 , 43720 , 26333
+Australia and Oceania , Baby Food , 15.08.2010 , 8856 , 25528 , 15942
+Middle East and North Africa , Baby Food , 26.04.2014 , 368 , 25528 , 15942
+Europe , Fruits , 10.06.2015 , 221 , 933 , 692
+Europe , Snacks , 12.08.2010 , 4044 , 15258 , 9744
+Middle East and North Africa , Beverages , 28.08.2012 , 9499 , 4745 , 3179
+Sub-Saharan Africa , Meat , 15.07.2016 , 1277 , 42189 , 36469
+Middle East and North Africa , Vegetables , 14.09.2010 , 6104 , 15406 , 9093
+Asia , Vegetables , 07.03.2011 , 7733 , 15406 , 9093
+Sub-Saharan Africa , Fruits , 30.04.2012 , 1950 , 933 , 692
+Australia and Oceania , Snacks , 18.05.2013 , 1574 , 15258 , 9744
+Europe , Meat , 10.08.2014 , 1452 , 42189 , 36469
+Asia , Snacks , 31.07.2013 , 3465 , 15258 , 9744
+Sub-Saharan Africa , Fruits , 02.07.2016 , 1523 , 933 , 692
+Middle East and North Africa , Fruits , 13.09.2011 , 6569 , 933 , 692
+Europe , Beverages , 18.04.2011 , 1578 , 4745 , 3179
+Sub-Saharan Africa , Meat , 09.02.2017 , 6552 , 42189 , 36469
+Asia , Cosmetics , 20.11.2016 , 3530 , 43720 , 26333
+Asia , Baby Food , 16.10.2010 , 1578 , 25528 , 15942
+Central America and the Caribbean , Snacks , 15.03.2015 , 1794 , 15258 , 9744
+Sub-Saharan Africa , Household , 25.06.2013 , 2309 , 66827 , 50254
+Sub-Saharan Africa , Cosmetics , 11.10.2012 , 3284 , 43720 , 26333
+Sub-Saharan Africa , Fruits , 08.07.2017 , 1910 , 933 , 692
+Europe , Office Supplies , 22.06.2010 , 7413 , 65121 , 52496
+Europe , Vegetables , 17.02.2017 , 6046 , 15406 , 9093
+Middle East and North Africa , Meat , 14.01.2011 , 6096 , 42189 , 36469
+Sub-Saharan Africa , Fruits , 09.01.2016 , 2880 , 933 , 692
+Europe , Baby Food , 18.07.2011 , 3747 , 25528 , 15942
+Asia , Beverages , 16.03.2012 , 3077 , 4745 , 3179
+Australia and Oceania , Vegetables , 15.12.2010 , 7281 , 15406 , 9093
+Sub-Saharan Africa , Fruits , 02.03.2013 , 9800 , 933 , 692
+Sub-Saharan Africa , Household , 17.02.2010 , 6110 , 66827 , 50254
+Asia , Personal Care , 19.02.2013 , 8714 , 8173 , 5667
+Europe , Beverages , 28.10.2011 , 2149 , 4745 , 3179
+Central America and the Caribbean , Office Supplies , 26.10.2015 , 7982 , 65121 , 52496
+Asia , Household , 05.02.2013 , 9812 , 66827 , 50254
+Asia , Personal Care , 25.08.2011 , 8269 , 8173 , 5667
+Sub-Saharan Africa , Meat , 04.12.2012 , 6014 , 42189 , 36469
+Middle East and North Africa , Baby Food , 08.09.2015 , 2739 , 25528 , 15942
+Central America and the Caribbean , Vegetables , 01.03.2012 , 168 , 15406 , 9093
+Middle East and North Africa , Cereal , 05.08.2014 , 7055 , 20570 , 11711
+Sub-Saharan Africa , Fruits , 24.07.2013 , 4188 , 933 , 692
+Central America and the Caribbean , Cosmetics , 26.01.2012 , 9383 , 43720 , 26333
+Sub-Saharan Africa , Clothes , 10.03.2014 , 2488 , 10928 , 3584
+Asia , Fruits , 12.09.2013 , 385 , 933 , 692
+Sub-Saharan Africa , Office Supplies , 05.01.2013 , 1983 , 65121 , 52496
+Europe , Cosmetics , 28.10.2011 , 3226 , 43720 , 26333
+Middle East and North Africa , Fruits , 21.11.2010 , 2087 , 933 , 692
+Asia , Office Supplies , 28.10.2015 , 3570 , 65121 , 52496
+Sub-Saharan Africa , Cosmetics , 29.07.2010 , 4713 , 43720 , 26333
+Asia , Fruits , 30.03.2014 , 9582 , 933 , 692
+Asia , Beverages , 14.09.2016 , 4276 , 4745 , 3179
+Europe , Clothes , 06.09.2012 , 1925 , 10928 , 3584
+Sub-Saharan Africa , Snacks , 08.02.2013 , 7689 , 15258 , 9744
+Sub-Saharan Africa , Personal Care , 17.01.2011 , 3762 , 8173 , 5667
+Sub-Saharan Africa , Cereal , 11.10.2015 , 4368 , 20570 , 11711
+Sub-Saharan Africa , Office Supplies , 21.02.2011 , 760 , 65121 , 52496
+Central America and the Caribbean , Personal Care , 29.04.2012 , 6225 , 8173 , 5667
+Middle East and North Africa , Meat , 30.08.2016 , 1080 , 42189 , 36469
+Sub-Saharan Africa , Beverages , 20.12.2014 , 7675 , 4745 , 3179
+Middle East and North Africa , Clothes , 28.06.2010 , 5388 , 10928 , 3584
+Asia , Personal Care , 06.02.2015 , 5631 , 8173 , 5667
+Central America and the Caribbean , Cereal , 30.03.2015 , 6847 , 20570 , 11711
+Central America and the Caribbean , Household , 28.07.2013 , 9509 , 66827 , 50254
+Europe , Beverages , 06.01.2010 , 1122 , 4745 , 3179
+Europe , Cereal , 20.02.2013 , 1222 , 20570 , 11711
+Europe , Personal Care , 25.08.2013 , 6377 , 8173 , 5667
+Europe , Meat , 16.11.2010 , 5185 , 42189 , 36469
+Sub-Saharan Africa , Cereal , 02.08.2016 , 3275 , 20570 , 11711
+Middle East and North Africa , Vegetables , 25.04.2013 , 8310 , 15406 , 9093
+Sub-Saharan Africa , Fruits , 02.03.2011 , 4981 , 933 , 692
+Sub-Saharan Africa , Household , 28.09.2013 , 13 , 66827 , 50254
+Sub-Saharan Africa , Meat , 05.05.2014 , 7159 , 42189 , 36469
+Sub-Saharan Africa , Meat , 28.11.2014 , 2207 , 42189 , 36469
+Central America and the Caribbean , Fruits , 30.08.2014 , 7973 , 933 , 692
+Middle East and North Africa , Office Supplies , 20.11.2013 , 9306 , 65121 , 52496
+Europe , Meat , 23.02.2010 , 8086 , 42189 , 36469
+Middle East and North Africa , Snacks , 20.03.2017 , 8225 , 15258 , 9744
+Australia and Oceania , Beverages , 08.11.2015 , 664 , 4745 , 3179
+Sub-Saharan Africa , Beverages , 09.08.2010 , 8377 , 4745 , 3179
+Europe , Cereal , 12.11.2010 , 1370 , 20570 , 11711
+Europe , Meat , 14.12.2011 , 1677 , 42189 , 36469
+Europe , Vegetables , 10.01.2014 , 8367 , 15406 , 9093
+Europe , Vegetables , 03.10.2010 , 2539 , 15406 , 9093
+Europe , Household , 15.10.2015 , 2321 , 66827 , 50254
+Europe , Snacks , 20.07.2013 , 7876 , 15258 , 9744
+Middle East and North Africa , Snacks , 19.01.2016 , 6396 , 15258 , 9744
+Sub-Saharan Africa , Cereal , 17.08.2013 , 7103 , 20570 , 11711
+Middle East and North Africa , Vegetables , 16.08.2016 , 6254 , 15406 , 9093
+Sub-Saharan Africa , Baby Food , 25.09.2013 , 2134 , 25528 , 15942
+Sub-Saharan Africa , Meat , 21.08.2013 , 61 , 42189 , 36469
+Asia , Cosmetics , 10.12.2010 , 7383 , 43720 , 26333
+Sub-Saharan Africa , Vegetables , 04.09.2012 , 8480 , 15406 , 9093
+Asia , Cosmetics , 15.10.2011 , 9764 , 43720 , 26333
+Sub-Saharan Africa , Household , 26.08.2013 , 4676 , 66827 , 50254
+Asia , Beverages , 17.02.2017 , 8691 , 4745 , 3179
+Asia , Baby Food , 19.10.2010 , 4312 , 25528 , 15942
+Europe , Personal Care , 30.07.2014 , 6077 , 8173 , 5667
+Middle East and North Africa , Personal Care , 21.05.2015 , 5553 , 8173 , 5667
+Central America and the Caribbean , Personal Care , 05.05.2016 , 6338 , 8173 , 5667
+Sub-Saharan Africa , Office Supplies , 14.04.2010 , 9063 , 65121 , 52496
+Europe , Office Supplies , 26.10.2013 , 6388 , 65121 , 52496
+Sub-Saharan Africa , Vegetables , 21.07.2010 , 8005 , 15406 , 9093
+Sub-Saharan Africa , Fruits , 09.06.2015 , 5639 , 933 , 692
+Europe , Snacks , 03.06.2010 , 8044 , 15258 , 9744
+Europe , Baby Food , 17.05.2016 , 6007 , 25528 , 15942
+Sub-Saharan Africa , Cosmetics , 03.08.2013 , 7344 , 43720 , 26333
+Europe , Vegetables , 15.09.2013 , 1905 , 15406 , 9093
+Asia , Meat , 02.07.2010 , 6569 , 42189 , 36469
+Central America and the Caribbean , Meat , 18.12.2013 , 248 , 42189 , 36469
+Sub-Saharan Africa , Office Supplies , 19.03.2016 , 8883 , 65121 , 52496
+Europe , Snacks , 09.06.2010 , 449 , 15258 , 9744
+Europe , Personal Care , 21.05.2017 , 9950 , 8173 , 5667
+Sub-Saharan Africa , Cosmetics , 12.06.2013 , 4423 , 43720 , 26333
+Australia and Oceania , Fruits , 22.02.2010 , 7934 , 933 , 692
+Europe , Cereal , 29.06.2012 , 6583 , 20570 , 11711
+Europe , Vegetables , 23.03.2015 , 3500 , 15406 , 9093
+Australia and Oceania , Cereal , 12.02.2014 , 3844 , 20570 , 11711
+Sub-Saharan Africa , Clothes , 22.05.2017 , 9810 , 10928 , 3584
+Sub-Saharan Africa , Vegetables , 06.08.2011 , 5620 , 15406 , 9093
+Asia , Baby Food , 14.11.2010 , 2530 , 25528 , 15942
+Sub-Saharan Africa , Household , 05.04.2015 , 3825 , 66827 , 50254
+Sub-Saharan Africa , Vegetables , 08.07.2014 , 9823 , 15406 , 9093
+Australia and Oceania , Clothes , 09.08.2014 , 2873 , 10928 , 3584
+Europe , Clothes , 13.03.2011 , 2354 , 10928 , 3584
+Sub-Saharan Africa , Baby Food , 02.03.2016 , 9677 , 25528 , 15942
+Middle East and North Africa , Cereal , 19.12.2015 , 3286 , 20570 , 11711
+Europe , Personal Care , 28.03.2013 , 3653 , 8173 , 5667
+Asia , Snacks , 27.06.2015 , 8283 , 15258 , 9744
+Asia , Vegetables , 18.02.2016 , 6714 , 15406 , 9093
+Europe , Vegetables , 14.06.2013 , 5511 , 15406 , 9093
+Europe , Baby Food , 10.05.2014 , 3273 , 25528 , 15942
+Middle East and North Africa , Meat , 17.06.2015 , 5632 , 42189 , 36469
+Europe , Snacks , 11.06.2014 , 246 , 15258 , 9744
+Asia , Cosmetics , 03.11.2013 , 1810 , 43720 , 26333
+Central America and the Caribbean , Cosmetics , 02.04.2017 , 7047 , 43720 , 26333
+Europe , Beverages , 28.05.2010 , 9711 , 4745 , 3179
+Sub-Saharan Africa , Snacks , 22.05.2010 , 5588 , 15258 , 9744
+Europe , Beverages , 02.06.2016 , 7497 , 4745 , 3179
+Asia , Meat , 22.08.2013 , 285 , 42189 , 36469
+Sub-Saharan Africa , Fruits , 05.10.2014 , 5833 , 933 , 692
+Sub-Saharan Africa , Meat , 31.10.2010 , 8052 , 42189 , 36469
+Sub-Saharan Africa , Clothes , 27.11.2012 , 7884 , 10928 , 3584
+Europe , Cereal , 22.05.2010 , 8302 , 20570 , 11711
+Europe , Snacks , 31.08.2012 , 9312 , 15258 , 9744
+Sub-Saharan Africa , Cereal , 23.01.2015 , 2950 , 20570 , 11711
+Sub-Saharan Africa , Beverages , 02.03.2010 , 8282 , 4745 , 3179
+Asia , Cosmetics , 09.05.2014 , 6409 , 43720 , 26333
+Australia and Oceania , Snacks , 28.12.2010 , 5459 , 15258 , 9744
+Europe , Household , 19.10.2014 , 5594 , 66827 , 50254
+Sub-Saharan Africa , Meat , 21.01.2015 , 4006 , 42189 , 36469
+Europe , Beverages , 04.04.2017 , 9919 , 4745 , 3179
+Middle East and North Africa , Meat , 05.08.2016 , 9587 , 42189 , 36469
+Sub-Saharan Africa , Household , 26.11.2016 , 1297 , 66827 , 50254
+Sub-Saharan Africa , Beverages , 23.09.2011 , 366 , 4745 , 3179
+Sub-Saharan Africa , Personal Care , 24.10.2010 , 4144 , 8173 , 5667
+Europe , Baby Food , 14.08.2013 , 7008 , 25528 , 15942
+Europe , Cosmetics , 04.02.2013 , 5372 , 43720 , 26333
+Sub-Saharan Africa , Vegetables , 11.08.2014 , 2677 , 15406 , 9093
+Europe , Office Supplies , 12.01.2017 , 4396 , 65121 , 52496
+Middle East and North Africa , Meat , 03.07.2016 , 3036 , 42189 , 36469
+Central America and the Caribbean , Office Supplies , 27.03.2010 , 3131 , 65121 , 52496
+Australia and Oceania , Beverages , 05.06.2015 , 6249 , 4745 , 3179
+Middle East and North Africa , Household , 27.06.2012 , 5990 , 66827 , 50254
+Sub-Saharan Africa , Office Supplies , 19.12.2016 , 2982 , 65121 , 52496
+Australia and Oceania , Personal Care , 09.03.2015 , 9886 , 8173 , 5667
+Central America and the Caribbean , Snacks , 18.06.2013 , 6397 , 15258 , 9744
+Asia , Office Supplies , 12.08.2011 , 4236 , 65121 , 52496
+Central America and the Caribbean , Clothes , 17.04.2014 , 2158 , 10928 , 3584
+Sub-Saharan Africa , Baby Food , 03.02.2012 , 951 , 25528 , 15942
+Middle East and North Africa , Office Supplies , 01.08.2015 , 8431 , 65121 , 52496
+Sub-Saharan Africa , Baby Food , 11.09.2013 , 4447 , 25528 , 15942
+Asia , Snacks , 08.05.2015 , 5879 , 15258 , 9744
+Central America and the Caribbean , Snacks , 22.05.2015 , 1637 , 15258 , 9744
+Asia , Snacks , 03.07.2013 , 7665 , 15258 , 9744
+Europe , Personal Care , 16.06.2010 , 1936 , 8173 , 5667
+Central America and the Caribbean , Beverages , 08.11.2011 , 9455 , 4745 , 3179
+Central America and the Caribbean , Fruits , 17.10.2016 , 7258 , 933 , 692
+Sub-Saharan Africa , Vegetables , 02.02.2014 , 9412 , 15406 , 9093
+Sub-Saharan Africa , Meat , 30.04.2016 , 2016 , 42189 , 36469
+Central America and the Caribbean , Cosmetics , 31.08.2010 , 8200 , 43720 , 26333
+Europe , Personal Care , 08.08.2015 , 3124 , 8173 , 5667
+Sub-Saharan Africa , Cereal , 18.08.2016 , 8983 , 20570 , 11711
+Sub-Saharan Africa , Clothes , 18.06.2015 , 9998 , 10928 , 3584
+North America , Clothes , 28.01.2011 , 7425 , 10928 , 3584
+Middle East and North Africa , Beverages , 04.02.2011 , 4550 , 4745 , 3179
+Europe , Vegetables , 03.11.2012 , 1691 , 15406 , 9093
+Middle East and North Africa , Clothes , 18.09.2014 , 1196 , 10928 , 3584
+Sub-Saharan Africa , Baby Food , 17.05.2012 , 2444 , 25528 , 15942
+Central America and the Caribbean , Personal Care , 20.02.2010 , 6848 , 8173 , 5667
+Sub-Saharan Africa , Vegetables , 28.02.2017 , 2849 , 15406 , 9093
+Europe , Personal Care , 17.05.2013 , 921 , 8173 , 5667
+Central America and the Caribbean , Baby Food , 09.11.2013 , 8569 , 25528 , 15942
+Sub-Saharan Africa , Clothes , 10.01.2012 , 5330 , 10928 , 3584
+Central America and the Caribbean , Fruits , 24.09.2013 , 7769 , 933 , 692
+Central America and the Caribbean , Personal Care , 26.09.2010 , 4487 , 8173 , 5667
+Central America and the Caribbean , Cereal , 21.10.2014 , 1113 , 20570 , 11711
+Europe , Household , 17.01.2016 , 5308 , 66827 , 50254
+Europe , Vegetables , 27.12.2016 , 1764 , 15406 , 9093
+Europe , Beverages , 30.08.2013 , 7206 , 4745 , 3179
+Asia , Office Supplies , 07.07.2014 , 5387 , 65121 , 52496
+Sub-Saharan Africa , Office Supplies , 29.11.2013 , 2095 , 65121 , 52496
+Middle East and North Africa , Clothes , 29.01.2011 , 146 , 10928 , 3584
+Asia , Snacks , 13.11.2013 , 4390 , 15258 , 9744
+Europe , Fruits , 09.04.2012 , 6705 , 933 , 692
+Middle East and North Africa , Office Supplies , 28.06.2012 , 1004 , 65121 , 52496
+Sub-Saharan Africa , Clothes , 08.06.2010 , 8228 , 10928 , 3584
+Middle East and North Africa , Office Supplies , 23.08.2010 , 1352 , 65121 , 52496
+Middle East and North Africa , Snacks , 11.12.2014 , 379 , 15258 , 9744
+Middle East and North Africa , Clothes , 27.01.2011 , 7347 , 10928 , 3584
+Middle East and North Africa , Personal Care , 07.05.2014 , 1322 , 8173 , 5667
+Australia and Oceania , Cereal , 08.11.2010 , 3404 , 20570 , 11711
+Central America and the Caribbean , Fruits , 30.03.2014 , 1721 , 933 , 692
+Middle East and North Africa , Clothes , 09.07.2016 , 6436 , 10928 , 3584
+Middle East and North Africa , Meat , 15.07.2014 , 4741 , 42189 , 36469
+Australia and Oceania , Beverages , 14.10.2013 , 5859 , 4745 , 3179
+Middle East and North Africa , Snacks , 13.01.2017 , 6045 , 15258 , 9744
+Europe , Meat , 22.12.2012 , 3585 , 42189 , 36469
+Australia and Oceania , Personal Care , 16.04.2010 , 3797 , 8173 , 5667
+Europe , Cosmetics , 27.02.2011 , 4029 , 43720 , 26333
+Europe , Clothes , 14.01.2015 , 8661 , 10928 , 3584
+Central America and the Caribbean , Vegetables , 16.11.2014 , 4105 , 15406 , 9093
+Australia and Oceania , Cosmetics , 17.01.2016 , 3803 , 43720 , 26333
+Australia and Oceania , Cereal , 29.05.2017 , 3227 , 20570 , 11711
+Europe , Fruits , 10.02.2015 , 4884 , 933 , 692
+Sub-Saharan Africa , Office Supplies , 08.12.2013 , 3309 , 65121 , 52496
+Central America and the Caribbean , Office Supplies , 10.12.2015 , 70 , 65121 , 52496
+Sub-Saharan Africa , Beverages , 04.09.2016 , 8766 , 4745 , 3179
+Sub-Saharan Africa , Personal Care , 19.07.2016 , 25 , 8173 , 5667
+Central America and the Caribbean , Beverages , 09.01.2017 , 6510 , 4745 , 3179
+Europe , Personal Care , 05.11.2016 , 7913 , 8173 , 5667
+Europe , Clothes , 31.10.2015 , 5957 , 10928 , 3584
+Sub-Saharan Africa , Beverages , 25.01.2011 , 9397 , 4745 , 3179
+Europe , Cosmetics , 08.11.2015 , 9020 , 43720 , 26333
+North America , Snacks , 24.06.2010 , 2643 , 15258 , 9744
+Middle East and North Africa , Beverages , 27.02.2014 , 114 , 4745 , 3179
+Asia , Meat , 05.02.2013 , 8313 , 42189 , 36469
+Central America and the Caribbean , Vegetables , 15.04.2017 , 6152 , 15406 , 9093
+Central America and the Caribbean , Meat , 09.04.2011 , 9572 , 42189 , 36469
+Sub-Saharan Africa , Personal Care , 13.12.2010 , 6548 , 8173 , 5667
+Asia , Meat , 13.05.2014 , 2085 , 42189 , 36469
+Central America and the Caribbean , Personal Care , 16.01.2013 , 3217 , 8173 , 5667
+Sub-Saharan Africa , Household , 09.12.2010 , 4014 , 66827 , 50254
+Asia , Baby Food , 24.01.2013 , 573 , 25528 , 15942
+Sub-Saharan Africa , Cosmetics , 25.02.2014 , 6025 , 43720 , 26333
+Sub-Saharan Africa , Fruits , 23.07.2017 , 5530 , 933 , 692
+Sub-Saharan Africa , Household , 07.05.2016 , 1280 , 66827 , 50254
+Sub-Saharan Africa , Office Supplies , 24.03.2012 , 7501 , 65121 , 52496
+Asia , Household , 03.10.2011 , 5446 , 66827 , 50254
+Central America and the Caribbean , Office Supplies , 22.12.2014 , 8401 , 65121 , 52496
+Sub-Saharan Africa , Personal Care , 23.08.2011 , 6684 , 8173 , 5667
+Europe , Beverages , 18.04.2015 , 2644 , 4745 , 3179
+Asia , Vegetables , 11.01.2014 , 5660 , 15406 , 9093
+Europe , Office Supplies , 27.02.2012 , 7144 , 65121 , 52496
+Europe , Clothes , 04.04.2011 , 5537 , 10928 , 3584
+Europe , Beverages , 26.12.2013 , 1315 , 4745 , 3179
+Europe , Vegetables , 12.09.2012 , 1980 , 15406 , 9093
+Central America and the Caribbean , Vegetables , 19.12.2015 , 7071 , 15406 , 9093
+Sub-Saharan Africa , Vegetables , 26.06.2014 , 3153 , 15406 , 9093
+Sub-Saharan Africa , Office Supplies , 02.03.2015 , 8826 , 65121 , 52496
+Asia , Beverages , 17.08.2014 , 9719 , 4745 , 3179
+Central America and the Caribbean , Personal Care , 19.07.2010 , 3494 , 8173 , 5667
+Sub-Saharan Africa , Household , 14.01.2013 , 4843 , 66827 , 50254
+Middle East and North Africa , Snacks , 19.07.2010 , 490 , 15258 , 9744
+Sub-Saharan Africa , Cosmetics , 11.07.2011 , 4189 , 43720 , 26333
+Sub-Saharan Africa , Fruits , 04.05.2010 , 1727 , 933 , 692
+Asia , Clothes , 13.10.2013 , 5921 , 10928 , 3584
+Middle East and North Africa , Vegetables , 27.07.2014 , 1619 , 15406 , 9093
+Asia , Office Supplies , 04.04.2010 , 702 , 65121 , 52496
+Sub-Saharan Africa , Meat , 17.08.2014 , 7081 , 42189 , 36469
+Sub-Saharan Africa , Baby Food , 04.01.2016 , 1698 , 25528 , 15942
+Sub-Saharan Africa , Baby Food , 17.05.2011 , 7526 , 25528 , 15942
+Asia , Beverages , 12.02.2010 , 4571 , 4745 , 3179
+Sub-Saharan Africa , Household , 17.02.2015 , 4869 , 66827 , 50254
+Sub-Saharan Africa , Meat , 07.06.2011 , 7487 , 42189 , 36469
+Sub-Saharan Africa , Fruits , 26.05.2015 , 3524 , 933 , 692
+Europe , Snacks , 24.05.2010 , 1109 , 15258 , 9744
+Middle East and North Africa , Baby Food , 21.02.2011 , 404 , 25528 , 15942
+Sub-Saharan Africa , Personal Care , 28.06.2014 , 8601 , 8173 , 5667
+Central America and the Caribbean , Cosmetics , 15.10.2010 , 4924 , 43720 , 26333
+Middle East and North Africa , Vegetables , 18.05.2010 , 5628 , 15406 , 9093
+Europe , Personal Care , 02.02.2017 , 8998 , 8173 , 5667
+Asia , Office Supplies , 24.11.2016 , 352 , 65121 , 52496
+Europe , Baby Food , 23.12.2011 , 7040 , 25528 , 15942
+Middle East and North Africa , Clothes , 05.12.2016 , 3440 , 10928 , 3584
+Australia and Oceania , Clothes , 16.02.2017 , 5963 , 10928 , 3584
+Middle East and North Africa , Cosmetics , 18.05.2010 , 8053 , 43720 , 26333
+Europe , Baby Food , 07.09.2010 , 5183 , 25528 , 15942
+Europe , Cosmetics , 12.03.2014 , 9858 , 43720 , 26333
+Asia , Personal Care , 16.07.2010 , 6613 , 8173 , 5667
+Europe , Cosmetics , 05.12.2016 , 7017 , 43720 , 26333
+Europe , Vegetables , 08.10.2013 , 4667 , 15406 , 9093
+Sub-Saharan Africa , Baby Food , 09.08.2016 , 194 , 25528 , 15942
+Europe , Meat , 06.10.2011 , 6259 , 42189 , 36469
+Middle East and North Africa , Meat , 17.02.2013 , 2554 , 42189 , 36469
+Sub-Saharan Africa , Fruits , 14.12.2012 , 804 , 933 , 692
+Middle East and North Africa , Fruits , 20.11.2015 , 9762 , 933 , 692
+Asia , Meat , 07.07.2012 , 214 , 42189 , 36469
+Australia and Oceania , Meat , 02.06.2013 , 9980 , 42189 , 36469
+Sub-Saharan Africa , Baby Food , 04.02.2015 , 8906 , 25528 , 15942
+Europe , Fruits , 28.04.2011 , 3872 , 933 , 692
+Sub-Saharan Africa , Baby Food , 01.02.2012 , 3791 , 25528 , 15942
+Asia , Vegetables , 29.01.2017 , 4604 , 15406 , 9093
+Australia and Oceania , Clothes , 01.12.2011 , 4285 , 10928 , 3584
+Europe , Cosmetics , 08.05.2017 , 7839 , 43720 , 26333
+Sub-Saharan Africa , Cereal , 03.05.2017 , 2302 , 20570 , 11711
+Australia and Oceania , Cosmetics , 31.10.2015 , 1741 , 43720 , 26333
+Europe , Clothes , 11.04.2010 , 2256 , 10928 , 3584
+Asia , Vegetables , 17.07.2010 , 6975 , 15406 , 9093
+Europe , Cereal , 31.05.2012 , 1060 , 20570 , 11711
+Australia and Oceania , Vegetables , 15.07.2016 , 6703 , 15406 , 9093
+Asia , Cosmetics , 14.01.2017 , 8128 , 43720 , 26333
+Sub-Saharan Africa , Snacks , 26.11.2012 , 6591 , 15258 , 9744
+Asia , Cereal , 03.10.2011 , 5376 , 20570 , 11711
+Central America and the Caribbean , Baby Food , 30.11.2010 , 4802 , 25528 , 15942
+Sub-Saharan Africa , Vegetables , 08.05.2016 , 7217 , 15406 , 9093
+Europe , Beverages , 27.02.2016 , 2001 , 4745 , 3179
+Middle East and North Africa , Vegetables , 24.08.2014 , 564 , 15406 , 9093
+Middle East and North Africa , Vegetables , 26.05.2013 , 1351 , 15406 , 9093
+Europe , Vegetables , 26.01.2015 , 4833 , 15406 , 9093
+Australia and Oceania , Snacks , 07.01.2012 , 8516 , 15258 , 9744
+Europe , Cosmetics , 21.10.2012 , 1937 , 43720 , 26333
+Middle East and North Africa , Household , 16.09.2015 , 1661 , 66827 , 50254
+Australia and Oceania , Meat , 28.06.2012 , 6289 , 42189 , 36469
+Central America and the Caribbean , Snacks , 02.12.2014 , 1450 , 15258 , 9744
+Sub-Saharan Africa , Household , 04.02.2013 , 4805 , 66827 , 50254
+Asia , Cosmetics , 17.02.2017 , 1047 , 43720 , 26333
+Middle East and North Africa , Beverages , 24.06.2015 , 6899 , 4745 , 3179
+Sub-Saharan Africa , Cereal , 30.07.2016 , 6115 , 20570 , 11711
+Asia , Cosmetics , 23.10.2014 , 4483 , 43720 , 26333
+Asia , Baby Food , 16.12.2016 , 4820 , 25528 , 15942
+Europe , Baby Food , 28.09.2015 , 1973 , 25528 , 15942
+Sub-Saharan Africa , Snacks , 16.04.2016 , 7824 , 15258 , 9744
+Europe , Snacks , 27.03.2017 , 6283 , 15258 , 9744
+Sub-Saharan Africa , Office Supplies , 25.06.2014 , 8292 , 65121 , 52496
+Sub-Saharan Africa , Clothes , 29.07.2012 , 6826 , 10928 , 3584
+Asia , Fruits , 04.05.2013 , 1888 , 933 , 692
+Europe , Snacks , 02.02.2012 , 5516 , 15258 , 9744
+Europe , Household , 24.07.2016 , 6777 , 66827 , 50254
+Sub-Saharan Africa , Personal Care , 04.11.2012 , 6769 , 8173 , 5667
+Middle East and North Africa , Personal Care , 05.08.2014 , 3621 , 8173 , 5667
+Middle East and North Africa , Office Supplies , 22.10.2013 , 7497 , 65121 , 52496
+Europe , Beverages , 01.12.2014 , 5586 , 4745 , 3179
+Middle East and North Africa , Personal Care , 02.11.2015 , 7114 , 8173 , 5667
+Europe , Cereal , 07.10.2011 , 8335 , 20570 , 11711
+Europe , Snacks , 09.02.2014 , 7536 , 15258 , 9744
+Europe , Office Supplies , 29.05.2016 , 33 , 65121 , 52496
+Middle East and North Africa , Baby Food , 08.04.2013 , 3175 , 25528 , 15942
+Asia , Beverages , 20.09.2011 , 1343 , 4745 , 3179
+Europe , Vegetables , 12.04.2012 , 947 , 15406 , 9093
+Europe , Vegetables , 02.10.2012 , 5429 , 15406 , 9093
+Asia , Baby Food , 02.01.2012 , 264 , 25528 , 15942
+Sub-Saharan Africa , Vegetables , 30.09.2013 , 7956 , 15406 , 9093
+Europe , Baby Food , 10.03.2015 , 3041 , 25528 , 15942
+Europe , Baby Food , 26.10.2010 , 7088 , 25528 , 15942
+Middle East and North Africa , Beverages , 02.05.2011 , 3693 , 4745 , 3179
+Sub-Saharan Africa , Meat , 19.02.2017 , 3488 , 42189 , 36469
+Middle East and North Africa , Cosmetics , 20.07.2014 , 9133 , 43720 , 26333
+Asia , Personal Care , 18.06.2017 , 321 , 8173 , 5667
+Europe , Beverages , 19.07.2010 , 8775 , 4745 , 3179
+Central America and the Caribbean , Clothes , 09.08.2013 , 3251 , 10928 , 3584
+Sub-Saharan Africa , Cereal , 23.03.2017 , 4534 , 20570 , 11711
+Europe , Fruits , 31.10.2016 , 441 , 933 , 692
+Europe , Fruits , 03.07.2016 , 822 , 933 , 692
+Europe , Cosmetics , 07.01.2010 , 2557 , 43720 , 26333
+Australia and Oceania , Beverages , 06.12.2014 , 4556 , 4745 , 3179
+Central America and the Caribbean , Vegetables , 16.10.2015 , 2761 , 15406 , 9093
+Middle East and North Africa , Cereal , 10.05.2013 , 5147 , 20570 , 11711
+Australia and Oceania , Cereal , 27.03.2013 , 6719 , 20570 , 11711
+Sub-Saharan Africa , Snacks , 13.07.2014 , 4512 , 15258 , 9744
+Asia , Beverages , 16.08.2013 , 2594 , 4745 , 3179
+Asia , Household , 14.07.2015 , 7063 , 66827 , 50254
+Europe , Household , 23.12.2014 , 1050 , 66827 , 50254
+Sub-Saharan Africa , Cereal , 27.04.2015 , 9715 , 20570 , 11711
+Middle East and North Africa , Fruits , 14.03.2017 , 5251 , 933 , 692
+Middle East and North Africa , Cosmetics , 02.10.2014 , 1881 , 43720 , 26333
+Europe , Cereal , 13.07.2014 , 861 , 20570 , 11711
+Europe , Beverages , 31.07.2016 , 5477 , 4745 , 3179
+Europe , Personal Care , 30.08.2010 , 6045 , 8173 , 5667
+Middle East and North Africa , Beverages , 22.04.2010 , 4915 , 4745 , 3179
+Australia and Oceania , Household , 09.03.2011 , 1466 , 66827 , 50254
+Middle East and North Africa , Meat , 13.01.2010 , 7110 , 42189 , 36469
+Asia , Cosmetics , 06.01.2016 , 289 , 43720 , 26333
+Europe , Baby Food , 17.08.2016 , 1476 , 25528 , 15942
+Sub-Saharan Africa , Personal Care , 22.10.2011 , 8177 , 8173 , 5667
+Europe , Cosmetics , 12.02.2010 , 9928 , 43720 , 26333
+Central America and the Caribbean , Cosmetics , 29.05.2017 , 3295 , 43720 , 26333
+Europe , Household , 17.04.2010 , 6878 , 66827 , 50254
+Middle East and North Africa , Baby Food , 08.09.2015 , 6307 , 25528 , 15942
+Middle East and North Africa , Baby Food , 13.02.2016 , 9242 , 25528 , 15942
+Europe , Snacks , 16.02.2014 , 376 , 15258 , 9744
+Middle East and North Africa , Fruits , 22.04.2013 , 6433 , 933 , 692
+Central America and the Caribbean , Cosmetics , 15.07.2014 , 1167 , 43720 , 26333
+Europe , Vegetables , 07.03.2012 , 365 , 15406 , 9093
+Asia , Vegetables , 14.01.2013 , 6844 , 15406 , 9093
+Europe , Snacks , 22.05.2017 , 5453 , 15258 , 9744
+Europe , Vegetables , 23.03.2015 , 8071 , 15406 , 9093
+Middle East and North Africa , Fruits , 28.09.2012 , 8610 , 933 , 692
+Sub-Saharan Africa , Baby Food , 06.06.2013 , 8012 , 25528 , 15942
+Central America and the Caribbean , Clothes , 02.04.2014 , 9250 , 10928 , 3584
+Middle East and North Africa , Clothes , 13.01.2017 , 2331 , 10928 , 3584
+Australia and Oceania , Cereal , 03.02.2017 , 9289 , 20570 , 11711
+Asia , Beverages , 05.08.2014 , 9192 , 4745 , 3179
+Australia and Oceania , Cereal , 06.10.2010 , 3139 , 20570 , 11711
+Asia , Personal Care , 10.09.2011 , 9259 , 8173 , 5667
+Europe , Baby Food , 12.12.2016 , 7714 , 25528 , 15942
+Middle East and North Africa , Office Supplies , 26.10.2015 , 5696 , 65121 , 52496
+Australia and Oceania , Cosmetics , 14.10.2013 , 2429 , 43720 , 26333
+North America , Baby Food , 17.08.2013 , 4168 , 25528 , 15942
+Europe , Fruits , 07.08.2011 , 9199 , 933 , 692
+Central America and the Caribbean , Personal Care , 22.05.2016 , 2838 , 8173 , 5667
+Asia , Cereal , 13.01.2015 , 2436 , 20570 , 11711
+Asia , Fruits , 22.07.2014 , 2371 , 933 , 692
+Sub-Saharan Africa , Cereal , 25.06.2015 , 9055 , 20570 , 11711
+Sub-Saharan Africa , Clothes , 10.08.2015 , 5930 , 10928 , 3584
+Central America and the Caribbean , Fruits , 19.10.2013 , 8470 , 933 , 692
+Asia , Personal Care , 09.10.2013 , 9180 , 8173 , 5667
+Sub-Saharan Africa , Personal Care , 26.09.2012 , 2595 , 8173 , 5667
+Middle East and North Africa , Cereal , 02.10.2012 , 284 , 20570 , 11711
+Asia , Clothes , 11.12.2016 , 5844 , 10928 , 3584
+Sub-Saharan Africa , Fruits , 26.07.2010 , 9907 , 933 , 692
+Asia , Cereal , 27.03.2010 , 5132 , 20570 , 11711
+Asia , Beverages , 11.09.2014 , 1212 , 4745 , 3179
+Sub-Saharan Africa , Snacks , 09.03.2016 , 9872 , 15258 , 9744
+Asia , Office Supplies , 19.10.2011 , 9865 , 65121 , 52496
+Central America and the Caribbean , Snacks , 31.10.2014 , 1978 , 15258 , 9744
+Australia and Oceania , Fruits , 23.02.2013 , 4028 , 933 , 692
+Middle East and North Africa , Clothes , 25.10.2010 , 5864 , 10928 , 3584
+Sub-Saharan Africa , Vegetables , 04.10.2016 , 4366 , 15406 , 9093
+Middle East and North Africa , Beverages , 04.09.2010 , 8445 , 4745 , 3179
+Middle East and North Africa , Meat , 22.12.2014 , 4043 , 42189 , 36469
+Sub-Saharan Africa , Household , 08.04.2015 , 9135 , 66827 , 50254
+Central America and the Caribbean , Cosmetics , 02.03.2017 , 8724 , 43720 , 26333
+Australia and Oceania , Household , 14.03.2012 , 9847 , 66827 , 50254
+Middle East and North Africa , Clothes , 22.11.2011 , 6571 , 10928 , 3584
+Central America and the Caribbean , Clothes , 08.09.2013 , 4995 , 10928 , 3584
+Sub-Saharan Africa , Fruits , 23.04.2012 , 8250 , 933 , 692
+Europe , Fruits , 14.02.2011 , 1495 , 933 , 692
+Europe , Vegetables , 06.10.2010 , 6923 , 15406 , 9093
+Europe , Vegetables , 08.12.2012 , 8759 , 15406 , 9093
+Asia , Personal Care , 17.08.2016 , 8256 , 8173 , 5667
+Asia , Beverages , 23.04.2014 , 8702 , 4745 , 3179
+Middle East and North Africa , Office Supplies , 18.11.2010 , 413 , 65121 , 52496
+Sub-Saharan Africa , Household , 22.04.2012 , 5738 , 66827 , 50254
+Europe , Household , 05.04.2014 , 4057 , 66827 , 50254
+Middle East and North Africa , Beverages , 21.06.2013 , 6781 , 4745 , 3179
+Australia and Oceania , Cosmetics , 13.07.2011 , 2352 , 43720 , 26333
+Central America and the Caribbean , Snacks , 01.02.2011 , 1245 , 15258 , 9744
+Central America and the Caribbean , Meat , 27.01.2012 , 963 , 42189 , 36469
+Middle East and North Africa , Vegetables , 24.06.2015 , 1044 , 15406 , 9093
+Asia , Snacks , 03.01.2012 , 8054 , 15258 , 9744
+Central America and the Caribbean , Cereal , 21.02.2016 , 592 , 20570 , 11711
+Sub-Saharan Africa , Vegetables , 04.12.2016 , 4288 , 15406 , 9093
+Central America and the Caribbean , Meat , 16.01.2012 , 6803 , 42189 , 36469
+Asia , Clothes , 06.08.2011 , 2830 , 10928 , 3584
+Middle East and North Africa , Clothes , 12.08.2011 , 9092 , 10928 , 3584
+Central America and the Caribbean , Meat , 18.12.2012 , 9344 , 42189 , 36469
+Sub-Saharan Africa , Household , 10.01.2010 , 9372 , 66827 , 50254
+Middle East and North Africa , Beverages , 28.02.2017 , 1993 , 4745 , 3179
+Sub-Saharan Africa , Beverages , 08.12.2011 , 2057 , 4745 , 3179
+Europe , Cereal , 18.08.2014 , 1443 , 20570 , 11711
+Australia and Oceania , Beverages , 19.04.2016 , 4062 , 4745 , 3179
+Australia and Oceania , Clothes , 06.11.2012 , 856 , 10928 , 3584
+Europe , Snacks , 27.05.2016 , 4800 , 15258 , 9744
+Middle East and North Africa , Office Supplies , 18.08.2013 , 5898 , 65121 , 52496
+Sub-Saharan Africa , Personal Care , 31.12.2014 , 6186 , 8173 , 5667
+Sub-Saharan Africa , Office Supplies , 04.02.2013 , 4732 , 65121 , 52496
+Asia , Clothes , 23.09.2016 , 2633 , 10928 , 3584
+Australia and Oceania , Household , 01.11.2016 , 8021 , 66827 , 50254
+Europe , Snacks , 27.12.2012 , 1057 , 15258 , 9744
+Australia and Oceania , Cereal , 10.03.2017 , 8932 , 20570 , 11711
+Sub-Saharan Africa , Beverages , 17.03.2012 , 870 , 4745 , 3179
+Sub-Saharan Africa , Cereal , 17.12.2015 , 3126 , 20570 , 11711
+Europe , Beverages , 18.02.2017 , 3987 , 4745 , 3179
+Australia and Oceania , Baby Food , 05.11.2016 , 8769 , 25528 , 15942
+Asia , Meat , 09.04.2017 , 4821 , 42189 , 36469
+Middle East and North Africa , Snacks , 18.04.2010 , 6524 , 15258 , 9744
+Europe , Baby Food , 01.08.2011 , 288 , 25528 , 15942
+Middle East and North Africa , Vegetables , 12.05.2011 , 9556 , 15406 , 9093
+Europe , Household , 25.01.2016 , 9801 , 66827 , 50254
+Europe , Cereal , 10.04.2014 , 3528 , 20570 , 11711
